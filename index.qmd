@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/my_image.JPEG"
   links:
     - icon: twitter
       text: Twitter
@@ -15,7 +15,7 @@ about:
       href: www.linkedin.com/in/wenlan-zhang
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "wenlan.zhang.21@ucl.ac.uk"  
 ---
 
 ::: {#about-block}
