@@ -50,7 +50,9 @@ website:
 
 project:
   type: website
-  output-dir: docs
+ # output-dir: docs
+  output-dir: .  # Change this line to output to the root directory
+
 
   preview: 
     port: 22222
