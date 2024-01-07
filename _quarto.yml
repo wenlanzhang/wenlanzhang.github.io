@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Wenlan"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  title: "Wenlan Zhang"                                # Your name
+  description: "Wenlan is a urban analyst"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -19,34 +19,38 @@ website:
         href: projects/index.qmd
       - text: "Photography"
         href: photography/index.qmd
+      - text: "Experience"
+        href: Experience/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
     # your social media handles
     right:
       - icon: folder-symlink
-        href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+        href: https://www.zhangwenlan.com/
       - icon: twitter
-        href: https://twitter.com/MarvinSchmittML
+        href: https://twitter.com/ZHANGWENLAN54
+      - icon: github
+        text: Github
+        href: https://github.com/wenlanzhang
       - icon: linkedin
-        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+        href: www.linkedin.com/in/wenlan-zhang
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.marvinschmitt@gmail.com"  
+        href: "Wenlan:wenlan.zhang.21@ucl.ac.uk"  
   
   
-
 # Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block">&#169; 2023 Wenlan Zhang CC BY-SA 4.0</span>
+#    center: |
+#      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+#    right: |
+#      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
 
 project:
   type: website

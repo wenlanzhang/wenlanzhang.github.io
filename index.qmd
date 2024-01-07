@@ -9,13 +9,13 @@ about:
       href: https://twitter.com/ZHANGWENLAN54
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/wenlanzhang
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/wenlan-zhang
     - icon: envelope
       text: Email
-      href: "wenlan.zhang.21@ucl.ac.uk"  
+      href: "Wenlan:wenlan.zhang.21@ucl.ac.uk"  
 ---
 
 ::: {#about-block}
@@ -23,7 +23,13 @@ about:
 
 # Welcome to my website!
 
-I am Wenlan, This is my website that is still under development. test
+<div style="text-align: justify;">
+Wenlan Zhang is a second year Phd student at [The Bartlett Centre for Advanced Spatial Analysis (CASA)](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis), University College London.
+
+Wenlan is currently working on her research project entitled 'Quantifying Digital Injustice: The Utility of Digital Footprint Data for Flood Risk Management in the Global South'. She is interested in sustainable smart cities in the Global South countries in general and would like to work in this sector in the future.
+
+Please feel free to [contact me](Wenlan:wenlan.zhang.21@ucl.ac.uk) if you would like to discuss potential projects.
+</div>
 
 <!-- a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications. -->
 
@@ -32,8 +38,8 @@ I am Wenlan, This is my website that is still under development. test
 <!-- Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively. -->
 
 <!-- On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers. -->
-<!-- Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects. -->
 
+<!-- Qili's Website: https://hugoblox.com/templates/ -->
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
@@ -41,3 +47,8 @@ I am Wenlan, This is my website that is still under development. test
 </div>
 ```
 
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
