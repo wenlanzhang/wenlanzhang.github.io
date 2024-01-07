@@ -20,9 +20,12 @@ website:
       - text: "Photography"
         href: photography/index.qmd
       - text: "Experience"
-        href: Experience/index.qmd
+        href: experience/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Publication"  # Replace with your desired navigation item text
+        href: "https://scholar.google.com/citations?user=Zr7A_v4AAAAJ&hl=en" 
+        
     
     # your social media handles
     right:
