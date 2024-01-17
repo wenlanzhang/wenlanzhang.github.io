@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to my website!",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\n\nWenlan Zhang is a second year Phd student at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.\nWenlan is currently working on her research project entitled ‘Quantifying Digital Injustice: The Utility of Digital Footprint Data for Flood Risk Management in the Global South’. She is interested in sustainable smart cities in the Global South countries in general and would like to work in this sector in the future.\nPlease feel free to contact me if you would like to discuss potential projects.\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\n\nWenlan Zhang is a second year Phd student at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.\nWenlan is currently working on her research project entitled ‘Quantifying Digital Injustice: The Utility of Digital Footprint Data for Flood Risk Management in the Global South’, under the supervision of Dr. Chen Zhong, Prof. Mark Pelling, and Dr. Faith Taylor.\nShe is interested in sustainable smart cities in the Global South countries in general and would like to work in this sector in the future. Please feel free to contact if you would like to discuss potential projects.\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
   },
   {
     "objectID": "cv/index.html",
@@ -18,14 +18,14 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "Open Data Fire Detection App | Project Presentation\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   },
   {
     "objectID": "projects/index.html#the-languages-of-middle-earth",
     "href": "projects/index.html#the-languages-of-middle-earth",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "Open Data Fire Detection App | Project Presentation\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   },
   {
     "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
@@ -61,5 +61,40 @@
     "title": "Experience",
     "section": "The History of the War of the Ring",
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html#land-cover-change-detection-peak-distric-uk",
+    "href": "projects/index.html#land-cover-change-detection-peak-distric-uk",
+    "title": "Projects",
+    "section": "Land Cover Change Detection (Peak Distric, UK)",
+    "text": "Land Cover Change Detection (Peak Distric, UK)\n\nReport | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "projects/index.html#land-use-classification-peak-distric-uk",
+    "href": "projects/index.html#land-use-classification-peak-distric-uk",
+    "title": "Projects",
+    "section": "Land Use Classification (Peak Distric, UK)",
+    "text": "Land Use Classification (Peak Distric, UK)\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html#forest-integrity-and-recovery-for-euboea-f.i.r.e-project",
+    "href": "projects/index.html#forest-integrity-and-recovery-for-euboea-f.i.r.e-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Open Data Fire Detection App | Project Presentation\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#forest-integrity-and-recovery-for-euboea-fire-greece",
+    "href": "projects/index.html#forest-integrity-and-recovery-for-euboea-fire-greece",
+    "title": "Projects",
+    "section": "",
+    "text": "Open Data Fire Detection App | Project Presentation\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#land-use-classification-nairobi-kenya",
+    "href": "projects/index.html#land-use-classification-nairobi-kenya",
+    "title": "Projects",
+    "section": "Land Use Classification (Nairobi, Kenya)",
+    "text": "Land Use Classification (Nairobi, Kenya)\n\nGIScience Conference | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
   }
 ]
