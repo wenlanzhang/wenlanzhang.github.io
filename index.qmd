@@ -46,12 +46,13 @@ She is interested in sustainable smart cities in the Global South countries in g
 <!-- On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers. -->
 
 <!-- Quarto Gallery: https://quarto.org/docs/gallery/ -->
-<!-- Others: https://hugoblox.com/templates/ -->
+<!-- Others: https://hugoblox.com/templates/ 
 
+<!-- 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
 <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
 </div>
 ```
-
+-->
 
