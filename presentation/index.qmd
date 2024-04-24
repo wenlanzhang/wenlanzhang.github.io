@@ -24,46 +24,24 @@ Over the centuries, I have devoted countless hours to deciphering and translatin
 
 ----
 
-## MSc in Environmental Technology
-September 2019 - September 2020  
+## The 12 International Conference on Geographic Information Science
 
-<a href="https://www.imperial.ac.uk/environmental-policy/" target="_blank">Centre for Environmental Policy</a> | <a href="https://www.imperial.ac.uk/natural-sciences/" target="_blank">Faculty of Natural Sciences</a><br> | <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a><br>
+<img src="GIScience_23.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://giscience2023.github.io/', 'blank');"/>
 
-Master Thesis: Distributed Ledger Technology enabled passenger control system to maintain social distancing on
-public transport during COVID-19
+12 - 15th September, 2023. Leeds, UK
 
-Result & Outcome: Applied a resource-sharing algorithm to the public transport sector to control the movement of the
-passengers. The system also came with a compliance scheme achieved by distributed ledger
-technology. The model used smart card data from London underground to simulate pass
-<!-- 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
--->
+<a href="https://www.imperial.ac.uk/environmental-policy/" target="_blank">Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank">Short Paper</a><br>
 
 ----
+layout: page
+title: Curriculum vitae
+excerpt: My current CV
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+resources:
+  - "20230914_GIScience.pdf"
+cv:
+  pdf: "20230914_GIScience.pdf"
 
-## BEng in Marine Resource Development Technology
-September 2015 - June 2019
-
-<a href="https://mc.wh.sdu.edu.cn/" target="_blank">Marine College</a> | <a href="https://www.en.sdu.edu.cn/" target="_blank">Shandong University</a><br>
-<a href="https://mc.wh.sdu.edu.cn/" target="_blank">海洋学院</a> | <a href="https://www.sdu.edu.cn/" target="_blank">山东大学</a><br>
-
-Bachelor Thesis: An Anoxic Bio-Filter (ABF) - Membrane Bioreactor (MBR) combined process on high salinity
-wastewater treatment and the effect of membrane fouling
-
-Result & Outcome: Designed and installed an ABF system to augment the existing MBR setup; Conducted rigorous
-testing to evaluate the efficiency of the combined ABF-MBR process on denitrification effect and
-alleviate the membrane fouling; Producing report detailing findings and recommendations.
-<!-- 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
--->
-<!-- 
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
--->
-
-<!-- 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
-```
--->
+----
