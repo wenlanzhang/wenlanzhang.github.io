@@ -25,23 +25,14 @@ Over the centuries, I have devoted countless hours to deciphering and translatin
 ----
 
 ## The 12 International Conference on Geographic Information Science
-
+<!-- 
 <img src="GIScience_23.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://giscience2023.github.io/', 'blank');"/>
+-->
 
 12 - 15th September, 2023. Leeds, UK
 
-<a href="https://www.imperial.ac.uk/environmental-policy/" target="_blank">Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank">Short Paper</a><br>
+<a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf" target="_blank">Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank">Short Paper</a><br>
 
-----
-layout: page
-title: Curriculum vitae
-excerpt: My current CV
-execute:
-  freeze: true  # never re-render during project render
-engine: knitr 
-resources:
-  - "20230914_GIScience.pdf"
-cv:
-  pdf: "20230914_GIScience.pdf"
+
 
 ----
