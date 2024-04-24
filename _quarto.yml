@@ -23,6 +23,8 @@ website:
         href: experience/index.qmd
       - text: "Education"
         href: education/index.qmd
+      - text: "Presentation"
+        href: Presentation/index.qmd
       - text: "Publication"  # Replace with your desired navigation item text
         href: "https://scholar.google.com/citations?user=Zr7A_v4AAAAJ&hl=en" 
       - text: "CV"
