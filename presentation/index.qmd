@@ -1,38 +1,30 @@
 ---
-title: Education
+title: Presentation
 ---
 
-## PhD in Advanced Spatial Analysis 
-March 2022 -                                           
+## Association of American Geographers Annual Meetings 2024 
 
-<a href="https://www.ucl.ac.uk/bartlett/casa/study/advanced-spatial-analysis-mphilphd" target="_blank">Centre for Advanced Spatial Analysis (CASA)</a> | <a href="https://www.ucl.ac.uk/bartlett/" target="_blank">The Bartlett Faculty of the Built Environment
-</a><br> | <a href="https://www.ucl.ac.uk/" target="_blank">University College London</a><br>
+<img src="AAG_24.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf', 'blank');"/>
 
-Research Topic: Comparing the utility of digital footprint data with existing methods on flood risk management and
-data injustice mitigation, a case study of Nairobi, Kenya
+16 - 20th April, 2024. Honolulu, Hawai'i, US
 
-Research Plan: Developing a workflow to assess the performance of digital footprint data in flood risk management
-by comparing with traditional methods in Nairobi, Kenya; Identifying digital invisible groups and
-proposing mitigation approaches to empower these groups for data-enabled decision-making.
+<a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf" target="_blank">Presentation</a> 
 
-<!-- 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+Title: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South
 
+Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
--->
+<!-- Final pdf: https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf-->
 
 ----
 
 ## The 12 International Conference on Geographic Information Science
-<!-- 
 <img src="GIScience_23.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://giscience2023.github.io/', 'blank');"/>
--->
 
 12 - 15th September, 2023. Leeds, UK
 
 <a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf" target="_blank">Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank">Short Paper</a><br>
 
+Title: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya
 
-
-----
+Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor
