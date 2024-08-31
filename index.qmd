@@ -12,10 +12,10 @@ about:
       href: https://github.com/wenlanzhang
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/wenlan-zhang
+      href: https://www.linkedin.com/in/wenlan-zhang
     - icon: envelope
       text: Email
-      href: "Wenlan:wenlan.zhang.21@ucl.ac.uk"  
+      href: "mailto:wenlan.zhang.21@ucl.ac.uk"  
 ---
 
 ::: {#about-block}
