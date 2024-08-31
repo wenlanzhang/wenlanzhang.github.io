@@ -2,24 +2,62 @@
 title: Projects
 ---
 
-## Forest Integrity and Recovery for Euboea (FIRE, Greece)
+## Forest Integrity and Recovery for Euboea (FIRE)
+<div style="text-align: center; font-style: italic; color: gray; margin-bottom: 20px;">
+  Location: Euboea, Greece | Funded by: <a href="https://www.aristeia.us/isec.html" target="_blank">Interdisciplinary School for Environmental Crisis (ISEC)</a>
+</div>
 
-<img src="project_1_banner.JPG" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.aristeia.us/isec-program.html', 'blank');"/>
+<div style="text-align: center;">
+  <img src="project_1_banner.JPG" style="max-width: 100%; height: auto;" alt="Forest Integrity and Recovery for Euboea" onclick="window.open('https://www.aristeia.us/isec-program.html', '_blank');"/>
+</div>
 
-<a href="https://zhangwl54.projects.earthengine.app/view/firedetectionevia" target="_blank">Open Data Fire Detection App</a> | <a href="https://www.canva.com/design/DAF3nbr3Uvo/yx4Gr8MoqEFrE-xZueCnbw/view?utm_content=DAF3nbr3Uvo&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Project Presentation</a><br>
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://zhangwl54.projects.earthengine.app/view/firedetectionevia" target="_blank" style="margin-right: 20px;">🌍 Open Data Fire Detection App </a> 
+  | 
+  <a href="https://www.canva.com/design/DAF3nbr3Uvo/yx4Gr8MoqEFrE-xZueCnbw/view?utm_content=DAF3nbr3Uvo&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" style="margin-left: 20px;">📊 Project Presentation</a>
+</div>
 
-Responsiblilty:   
-Field research about the cause of wild fire in Greece   
-understand the impact to local public health  (what chemicals are produced from he fire and how bad they are to human health)  
-Learn local expertise of how to prevent disaster from hazard  
+### Project Responsibilities:
+- **Fire Monitoring**: Led the fire monitoring efforts by developing and implementing a system to track and analyze wildfire activity using advanced spatial data analysis techniques.
+- **Field Research**: Conducted on-the-ground research to understand the causes of wildfires in Greece and their impact on local public health.
+- **Environmental Monitoring**: Developed tools for monitoring environmental changes, contributing to better disaster prevention and management strategies.
+- **Policy Recommendations**: Provided actionable policy recommendations for local authorities based on the findings from the fire monitoring and environmental analysis.
 
-Achievement:  
-Provide policy recomendations for local authorities from disaster management perspective   
-designed a wild fire report system, and demosntretd with an web app   
+### Key Contributions:
+- **Fire Monitoring Application**: Designed and launched a wildfire reporting system through a custom web application, showcasing my expertise in spatial data analysis.
+- **Policy Recommendations**: Provided actionable policy recommendations to local authorities, supporting disaster management and wildfire recovery efforts.
 
 ----
 
-## Land Cover Change Detection (Peak Distric, The Alan Turing Institute, UK)
+## Land Cover Change Detection
+<div style="text-align: center; font-style: italic; color: gray; margin-bottom: 20px;">
+  Location: Peak District, UK | Funded by: <a href="https://www.turing.ac.uk/" target="_blank">The Alan Turing Institute</a>
+</div>
+
+<div style="text-align: center;">
+  <img src="project_2_banner.png" style="max-width: 100%; height: auto;" alt="Land Cover Change Detection" onclick="window.open('https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority', '_blank');"/>
+</div>
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-11/turing_dsg_report_2023_peak_district_final.pdf" target="_blank" style="margin-right: 20px;">📄 Project Report</a> 
+  | 
+  <a href="https://github.com/alan-turing-institute/DSGMay23PeakDistrict" target="_blank" style="margin-left: 20px;">💻 Project Code</a>
+</div>
+
+### Project Responsibilities:
+- **Algorithm Development**: Led the creation of unsupervised AI/ML algorithms to detect land cover changes in the Peak District National Park using multispectral aerial photography.
+- **Change Mapping**: Produced detailed change maps, identifying areas of significant conservation interest, such as deforestation and peat restoration.
+- **Environmental Monitoring**: Contributed to improving tools for environmental monitoring, enabling better conservation efforts across the National Park.
+
+### Key Contributions:
+- **Innovative Change Detection**: Developed advanced algorithms using deep learning and other AI techniques to detect land cover changes with high accuracy.
+- **Leadership and Facilitation**: Served as one of the two facilitators of the team, demonstrating strong leadership and project management in a collaborative, time-sensitive environment.
+- **Impactful Environmental Insights**: Delivered crucial insights and tools for environmental monitoring, significantly advancing the understanding of land cover changes in the Peak District National Park.
+
+
+----
+
+<!-- ## Fright GPS location detection (Hunan, China)
 
 <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority', 'blank');"/>
 
@@ -32,24 +70,7 @@ Achievement:
 • Demonstrated leadership and project management skills in a time-sensitive, interdisciplinary setting  
 • Contributed to innovative solutions for land cover change detection using various methods including deep learning  
 • Played a key role in a collaborative project, advancing understanding in environmental science and data technology  
-
-
-----
-
-## Fright GPS location detection (Hunan, China)
-
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority', 'blank');"/>
-
-<a href="https://www.turing.ac.uk/sites/default/files/2023-11/turing_dsg_report_2023_peak_district_final.pdf" target="_blank">Report</a> | <a href="https://github.com/alan-turing-institute/DSGMay23PeakDistrict" target="_blank">Code</a><br>
-
-Responsibility: 
-
-
-Achievement: 
-• Demonstrated leadership and project management skills in a time-sensitive, interdisciplinary setting  
-• Contributed to innovative solutions for land cover change detection using various methods including deep learning  
-• Played a key role in a collaborative project, advancing understanding in environmental science and data technology  
-
+-->
 
 <!-- 
 ----
