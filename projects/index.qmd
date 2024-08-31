@@ -8,7 +8,14 @@ title: Projects
 
 <a href="https://zhangwl54.projects.earthengine.app/view/firedetectionevia" target="_blank">Open Data Fire Detection App</a> | <a href="https://www.canva.com/design/DAF3nbr3Uvo/yx4Gr8MoqEFrE-xZueCnbw/view?utm_content=DAF3nbr3Uvo&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Project Presentation</a><br>
 
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
+Responsiblilty:   
+Field research about the cause of wild fire in Greece   
+understand the impact to local public health  (what chemicals are produced from he fire and how bad they are to human health)  
+Learn local expertise of how to prevent disaster from hazard  
+
+Achievement:  
+Provide policy recomendations for local authorities from disaster management perspective   
+designed a wild fire report system, and demosntretd with an web app   
 
 ----
 
@@ -18,9 +25,31 @@ Over the centuries, I have devoted countless hours to deciphering and translatin
 
 <a href="https://www.turing.ac.uk/sites/default/files/2023-11/turing_dsg_report_2023_peak_district_final.pdf" target="_blank">Report</a> | <a href="https://github.com/alan-turing-institute/DSGMay23PeakDistrict" target="_blank">Code</a><br>
 
-• Demonstrated leadership and project management skills in a time-sensitive, interdisciplinary setting
-• Contributed to innovative solutions for land cover change detection using various methods including deep learning
-• Played a key role in a collaborative project, advancing understanding in environmental science and data technology
+Responsibility: 
+
+
+Achievement: 
+• Demonstrated leadership and project management skills in a time-sensitive, interdisciplinary setting  
+• Contributed to innovative solutions for land cover change detection using various methods including deep learning  
+• Played a key role in a collaborative project, advancing understanding in environmental science and data technology  
+
+
+----
+
+## Fright GPS location detection (Hunan, China)
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority', 'blank');"/>
+
+<a href="https://www.turing.ac.uk/sites/default/files/2023-11/turing_dsg_report_2023_peak_district_final.pdf" target="_blank">Report</a> | <a href="https://github.com/alan-turing-institute/DSGMay23PeakDistrict" target="_blank">Code</a><br>
+
+Responsibility: 
+
+
+Achievement: 
+• Demonstrated leadership and project management skills in a time-sensitive, interdisciplinary setting  
+• Contributed to innovative solutions for land cover change detection using various methods including deep learning  
+• Played a key role in a collaborative project, advancing understanding in environmental science and data technology  
+
 
 <!-- 
 ----
