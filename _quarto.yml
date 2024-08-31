@@ -41,10 +41,10 @@ website:
         text: Github
         href: https://github.com/wenlanzhang
       - icon: linkedin
-        href: www.linkedin.com/in/wenlan-zhang
+        href: https://www.linkedin.com/in/wenlan-zhang
       - icon: envelope
         aria-label: email
-        href: "Wenlan:wenlan.zhang.21@ucl.ac.uk"  
+        href: "mailto:wenlan.zhang.21@ucl.ac.uk"  
   
   
 # Don't touch unless you know what you are doing :) ------------
