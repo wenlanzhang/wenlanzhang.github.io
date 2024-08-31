@@ -2,29 +2,24 @@
 title: Presentation
 ---
 
-## Association of American Geographers Annual Meetings 2024 
+## [Association of American Geographers Annual Meetings 2024](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
 
-<img src="AAG_24.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf', 'blank');"/>
+![AAG 2024](AAG_24.jpg)
 
-16 - 20th April, 2024. Honolulu, Hawai'i, US
+**Date:** 16 - 20th April, 2024   
+**Location:** Honolulu, Hawai'i, US    
+**Title:** A Data-Driven Approach for Identifying Open Dumping Sites in the Global South   
+**Authors:** Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao  
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf)
 
-<a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf" target="_blank">Presentation</a> 
+---
 
-Title: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South
+## [The 12th International Conference on Geographic Information Science](https://giscience2023.github.io/)
 
-Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao
+![GIScience 2023](GIScience_23.jpg)
 
-<!-- Final pdf: https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf-->
-
-----
-
-## The 12 International Conference on Geographic Information Science
-<img src="GIScience_23.jpg" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://giscience2023.github.io/', 'blank');"/>
-
-12 - 15th September, 2023. Leeds, UK
-
-<a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf" target="_blank">Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank">Short Paper</a><br>
-
-Title: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya
-
-Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor
+**Date:** 12 - 15th September, 2023  
+**Location:** Leeds, UK  
+**Title:** Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya  
+**Authors:** Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor  
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf) | [Read Short Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94)

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website!",
+    "title": "Wenlan Zhang",
     "section": "",
-    "text": "format: html: css: styles.css\n\n  \n \n \n  \n   \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\n\nWenlan Zhang is a second year Phd student at The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.\nWenlan is currently working on her research project entitled ‘Quantifying Digital Injustice: The Utility of Digital Footprint Data for Flood Risk Management in the Global South’, under the supervision of Dr. Chen Zhong, Prof. Mark Pelling, and Dr. Faith Taylor.\nShe is interested in sustainable smart cities in the Global South countries in general and would like to work in this sector in the future. Please feel free to contact if you would like to discuss potential projects.\n\n张文澜是伦敦大学学院，巴特莱特建筑学院下属高级空间分析系的一名博士二年级学生，博士导师为钟晨，Mark Pelling和Faith Taylor。 她的研究方向主要集中在数据收集和算法层面解决全球南方的数据收集不平等的问题。她的研究案例为肯尼亚的首都，内罗毕市。\n张文澜对于可持续智慧城市在全球南方的发展相关领域十分感兴趣，希望未来可以在此方向就业。"
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\n\nWenlan Zhang is a second-year PhD student at the The Bartlett Centre for Advanced Spatial Analysis (CASA), University College London.\n\n\nShe is currently working on her research project titled “Quantifying Digital Injustice: The Utility of Digital Footprint Data in the Global South”, under the supervision of Dr. Chen Zhong, Prof. Mark Pelling, and Dr. Faith Taylor.\n\n\nWenlan’s research interests lie in sustainable smart cities, particularly in Global South countries, and she aims to pursue a career in this sector in the future. Feel free to contact her to discuss potential projects.\n\n\n\n\n张文澜是伦敦大学学院巴特莱特建筑学院下属高级空间分析系的一名博士二年级学生，博士导师为钟晨、Mark Pelling和Faith Taylor。\n\n\n她的研究方向主要集中在数据收集和算法层面解决全球南方的数据收集不平等问题，研究案例为肯尼亚首都内罗毕市。\n\n\n张文澜对可持续智慧城市在全球南方的发展十分感兴趣，并希望未来在此领域就业。"
   },
   {
     "objectID": "cv/index.html",
@@ -109,7 +109,7 @@
     "href": "education/index.html",
     "title": "Education",
     "section": "",
-    "text": "March 2022 -\nCentre for Advanced Spatial Analysis (CASA) | The Bartlett Faculty of the Built Environment  | University College London\nResearch Topic: Quantifying digital injustice: a case study of Nairobi, Kenya\nResearch Plan: Developing a workflow to assess the performance of big data by comparing with traditional methods in Nairobi, Kenya; Identifying digital invisible groups and proposing mitigation approaches to empower these groups for data-enabled decision-making."
+    "text": "March 2022 - Present\nCentre for Advanced Spatial Analysis (CASA) | The Bartlett Faculty of the Built Environment | University College London\nResearch Topic:\nQuantifying digital injustice: a case study of Nairobi, Kenya\nResearch Plan:\nDeveloping a workflow to assess the performance of big data by comparing it with traditional methods in Nairobi, Kenya; identifying digitally invisible groups and proposing mitigation approaches to empower these groups for data-enabled decision-making."
   },
   {
     "objectID": "education/index.html#the-languages-of-middle-earth",
@@ -137,21 +137,21 @@
     "href": "education/index.html#phd-in-advanced-spatial-analysis",
     "title": "Education",
     "section": "",
-    "text": "March 2022 -\nCentre for Advanced Spatial Analysis (CASA) | The Bartlett Faculty of the Built Environment  | University College London\nResearch Topic: Quantifying digital injustice: a case study of Nairobi, Kenya\nResearch Plan: Developing a workflow to assess the performance of big data by comparing with traditional methods in Nairobi, Kenya; Identifying digital invisible groups and proposing mitigation approaches to empower these groups for data-enabled decision-making."
+    "text": "March 2022 - Present\nCentre for Advanced Spatial Analysis (CASA) | The Bartlett Faculty of the Built Environment | University College London\nResearch Topic:\nQuantifying digital injustice: a case study of Nairobi, Kenya\nResearch Plan:\nDeveloping a workflow to assess the performance of big data by comparing it with traditional methods in Nairobi, Kenya; identifying digitally invisible groups and proposing mitigation approaches to empower these groups for data-enabled decision-making."
   },
   {
     "objectID": "education/index.html#msc-in-environmental-technology",
     "href": "education/index.html#msc-in-environmental-technology",
     "title": "Education",
     "section": "MSc in Environmental Technology",
-    "text": "MSc in Environmental Technology\nSeptember 2019 - September 2020\nCentre for Environmental Policy | Faculty of Natural Sciences | Imperial College London\nMaster Thesis: Distributed Ledger Technology enabled passenger control system to maintain social distancing on public transport during COVID-19\nResult & Outcome: Applied a resource-sharing algorithm to the public transport sector to control the movement of the passengers. The system also came with a compliance scheme achieved by distributed ledger technology. The model used smart card data from London underground to simulate pass"
+    "text": "MSc in Environmental Technology\nSeptember 2019 - September 2020\nCentre for Environmental Policy | Faculty of Natural Sciences | Imperial College London\nMaster Thesis:\nDistributed Ledger Technology enabled passenger control system to maintain social distancing on public transport during COVID-19\nResult & Outcome:\nApplied a resource-sharing algorithm to the public transport sector to control passenger movement. The system, enhanced by distributed ledger technology, used smart card data from the London Underground to simulate and enforce compliance."
   },
   {
     "objectID": "education/index.html#beng-in-marine-resource-development-technology",
     "href": "education/index.html#beng-in-marine-resource-development-technology",
     "title": "Education",
     "section": "BEng in Marine Resource Development Technology",
-    "text": "BEng in Marine Resource Development Technology\nSeptember 2015 - June 2019\nMarine College | Shandong University 海洋学院 | 山东大学\nBachelor Thesis: An Anoxic Bio-Filter (ABF) - Membrane Bioreactor (MBR) combined process on high salinity wastewater treatment and the effect of membrane fouling\nResult & Outcome: Designed and installed an ABF system to augment the existing MBR setup; Conducted rigorous testing to evaluate the efficiency of the combined ABF-MBR process on denitrification effect and alleviate the membrane fouling; Producing report detailing findings and recommendations."
+    "text": "BEng in Marine Resource Development Technology\nSeptember 2015 - June 2019\nMarine College | Shandong University\n海洋学院 | 山东大学\nBachelor Thesis:\nAn Anoxic Bio-Filter (ABF) - Membrane Bioreactor (MBR) combined process on high salinity wastewater treatment and the effect of membrane fouling\nResult & Outcome:\nDesigned and installed an ABF system to enhance the existing MBR setup; conducted rigorous testing to evaluate the combined ABF-MBR process’s efficiency in denitrification and membrane fouling reduction; produced a comprehensive report detailing findings and recommendations."
   },
   {
     "objectID": "experience/index.html#research-assistant-at-the-world-bank-group",
@@ -179,7 +179,7 @@
     "href": "presentation/index.html",
     "title": "Presentation",
     "section": "",
-    "text": "16 - 20th April, 2024. Honolulu, Hawai’i, US\nPresentation\nTitle: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South\nWenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao"
+    "text": "AAG 2024\n\n\nDate: 16 - 20th April, 2024\nLocation: Honolulu, Hawai’i, US\nTitle: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South\nAuthors: Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao\nView Presentation"
   },
   {
     "objectID": "presentation/index.html#phd-in-advanced-spatial-analysis",
@@ -193,14 +193,14 @@
     "href": "presentation/index.html#the-12-international-conference-on-geographic-information-science",
     "title": "Presentation",
     "section": "The 12 International Conference on Geographic Information Science",
-    "text": "The 12 International Conference on Geographic Information Science\n\n12 - 15th September, 2023. Leeds, UK\nPresentation | Short Paper\nTitle: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya\nWenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor"
+    "text": "The 12 International Conference on Geographic Information Science\n\n12 - 15th September, 2023. Leeds, UK\nPresentation | Short Paper\nTitle: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya\nWenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor\n\n\n\n# Presentation\n\n\n## Association of American Geographers Annual Meetings 2024\n\n\n|  | 16 - 20th April, 2024. Honolulu, Hawai’i, US View Presentation Title: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao | |—|—|"
   },
   {
     "objectID": "presentation/index.html#association-of-american-geographers-annual-meetings-2024",
     "href": "presentation/index.html#association-of-american-geographers-annual-meetings-2024",
     "title": "Presentation",
     "section": "",
-    "text": "16 - 20th April, 2024. Honolulu, Hawai’i, US\nPresentation\nTitle: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South\nWenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao"
+    "text": "AAG 2024\n\n\nDate: 16 - 20th April, 2024\nLocation: Honolulu, Hawai’i, US\nTitle: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South\nAuthors: Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao\nView Presentation"
   },
   {
     "objectID": "experience/index.html#intern-at-united-nations-industrial-development-organization",
@@ -243,5 +243,40 @@
     "title": "Projects",
     "section": "Land Cover Change Detection",
     "text": "Land Cover Change Detection\n\nLocation: Peak District, UK | Funded by: The Alan Turing Institute\n\n\n\n\n\n📄 Project Report | 💻 Project Code\n\n\nProject Responsibilities:\n\nAlgorithm Development: Led the creation of unsupervised AI/ML algorithms to detect land cover changes in the Peak District National Park using multispectral aerial photography.\nChange Mapping: Produced detailed change maps, identifying areas of significant conservation interest, such as deforestation and peat restoration.\nEnvironmental Monitoring: Contributed to improving tools for environmental monitoring, enabling better conservation efforts across the National Park.\n\n\n\nKey Contributions:\n\nInnovative Change Detection: Developed advanced algorithms using deep learning and other AI techniques to detect land cover changes with high accuracy.\nLeadership and Facilitation: Served as one of the two facilitators of the team, demonstrating strong leadership and project management in a collaborative, time-sensitive environment.\nImpactful Environmental Insights: Delivered crucial insights and tools for environmental monitoring, significantly advancing the understanding of land cover changes in the Peak District National Park."
+  },
+  {
+    "objectID": "education/index.html#phd-in-advanced-spatial-analysis-1",
+    "href": "education/index.html#phd-in-advanced-spatial-analysis-1",
+    "title": "Education",
+    "section": "PhD in Advanced Spatial Analysis",
+    "text": "PhD in Advanced Spatial Analysis\nMarch 2022 - Present\nCentre for Advanced Spatial Analysis (CASA) | The Bartlett Faculty of the Built Environment\nUniversity College London\nResearch Topic:\nQuantifying digital injustice: a case study of Nairobi, Kenya\nResearch Plan:\nDeveloping a workflow to assess the performance of big data by comparing it with traditional methods in Nairobi, Kenya; identifying digitally invisible groups and proposing mitigation approaches to empower these groups for data-enabled decision-making."
+  },
+  {
+    "objectID": "education/index.html#msc-in-environmental-technology-1",
+    "href": "education/index.html#msc-in-environmental-technology-1",
+    "title": "Education",
+    "section": "MSc in Environmental Technology",
+    "text": "MSc in Environmental Technology\nSeptember 2019 - September 2020\nCentre for Environmental Policy | Faculty of Natural Sciences\nImperial College London\nMaster Thesis:\nDistributed Ledger Technology enabled passenger control system to maintain social distancing on public transport during COVID-19\nResult & Outcome:\nApplied a resource-sharing algorithm to the public transport sector to control passenger movement. The system, enhanced by distributed ledger technology, used smart card data from the London Underground to simulate and enforce compliance."
+  },
+  {
+    "objectID": "education/index.html#beng-in-marine-resource-development-technology-1",
+    "href": "education/index.html#beng-in-marine-resource-development-technology-1",
+    "title": "Education",
+    "section": "BEng in Marine Resource Development Technology",
+    "text": "BEng in Marine Resource Development Technology\nSeptember 2015 - June 2019\nMarine College | Shandong University\n海洋学院 | 山东大学\nBachelor Thesis:\nAn Anoxic Bio-Filter (ABF) - Membrane Bioreactor (MBR) combined process on high salinity wastewater treatment and the effect of membrane fouling\nResult & Outcome:\nDesigned and installed an ABF system to enhance the existing MBR setup; conducted rigorous testing to evaluate the combined ABF-MBR process’s efficiency in denitrification and membrane fouling reduction; produced a comprehensive report detailing findings and recommendations."
+  },
+  {
+    "objectID": "presentation/index.html#the-12th-international-conference-on-geographic-information-science",
+    "href": "presentation/index.html#the-12th-international-conference-on-geographic-information-science",
+    "title": "Presentation",
+    "section": "The 12th International Conference on Geographic Information Science",
+    "text": "The 12th International Conference on Geographic Information Science\n\n\n\nGIScience 2023\n\n\nDate: 12 - 15th September, 2023\nLocation: Leeds, UK\nTitle: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya\nAuthors: Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor\nView Presentation | Read Short Paper"
+  },
+  {
+    "objectID": "presentation/index.html#the-12th-international-conference-on-geographic-information-science-1",
+    "href": "presentation/index.html#the-12th-international-conference-on-geographic-information-science-1",
+    "title": "Presentation",
+    "section": "",
+    "text": "GIScience 2023\n\n\nDate: 12 - 15th September, 2023\nLocation: Leeds, UK\nTitle: Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya\nAuthors: Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor\nView Presentation | Read Short Paper"
   }
 ]

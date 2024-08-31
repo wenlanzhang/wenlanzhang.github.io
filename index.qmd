@@ -1,7 +1,3 @@
-format:
-  html:
-    css: styles.css
-
 ---
 about:
   template: jolla
@@ -19,33 +15,28 @@ about:
       href: https://www.linkedin.com/in/wenlan-zhang
     - icon: envelope
       text: Email
-      href: "mailto:wenlan.zhang.21@ucl.ac.uk"  
+      href: "mailto:wenlan.zhang.21@ucl.ac.uk"
 ---
 
 ::: {#about-block}
 :::
 
-# Welcome to my website!
+<div style="text-align: justify; font-size: 1em;">
+  <p><strong>Wenlan Zhang</strong> is a second-year PhD student at the <a href="https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis" target="_blank">The Bartlett Centre for Advanced Spatial Analysis (CASA)</a>, University College London.</p>
 
-<div style="text-align: justify;">
-Wenlan Zhang is a second year Phd student at [The Bartlett Centre for Advanced Spatial Analysis (CASA)](https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis), University College London.
+  <p>She is currently working on her research project titled <em>"Quantifying Digital Injustice: The Utility of Digital Footprint Data in the Global South"</em>, under the supervision of <a href="https://smartcityanalysis.com/team.html" target="_blank">Dr. Chen Zhong</a>, <a href="https://profiles.ucl.ac.uk/90166-mark-pelling" target="_blank">Prof. Mark Pelling</a>, and <a href="https://www.kcl.ac.uk/people/faith-taylor" target="_blank">Dr. Faith Taylor</a>.</p>
 
-Wenlan is currently working on her research project entitled 'Quantifying Digital Injustice: The Utility of Digital Footprint Data for Flood Risk Management in the Global South', under the supervision of [Dr. Chen Zhong](https://smartcityanalysis.com/team.html),  [Prof. Mark Pelling](https://profiles.ucl.ac.uk/90166-mark-pelling), and [Dr. Faith Taylor](https://www.kcl.ac.uk/people/faith-taylor). 
-
-She is interested in sustainable smart cities in the Global South countries in general and would like to work in this sector in the future. Please feel free to [contact](Wenlan:wenlan.zhang.21@ucl.ac.uk) if you would like to discuss potential projects.
+  <p>Wenlan's research interests lie in sustainable smart cities, particularly in Global South countries, and she aims to pursue a career in this sector in the future. Feel free to <a href="mailto:wenlan.zhang.21@ucl.ac.uk">contact her</a> to discuss potential projects.</p>
 </div>
 
+<div style="text-align: justify; font-size: 1em;">
+  <p><strong>张文澜</strong>是伦敦大学学院巴特莱特建筑学院下属高级空间分析系的一名博士二年级学生，博士导师为<a href="https://smartcityanalysis.com/team.html" target="_blank">钟晨</a>、<a href="https://profiles.ucl.ac.uk/90166-mark-pelling" target="_blank">Mark Pelling</a>和<a href="https://www.kcl.ac.uk/people/faith-taylor" target="_blank">Faith Taylor</a>。</p>
 
-张文澜是伦敦大学学院，巴特莱特建筑学院下属高级空间分析系的一名博士二年级学生，博士导师为[钟晨](https://smartcityanalysis.com/team.html)，[Mark Pelling](https://profiles.ucl.ac.uk/90166-mark-pelling)和[Faith Taylor](https://www.kcl.ac.uk/people/faith-taylor)。
-她的研究方向主要集中在数据收集和算法层面解决全球南方的数据收集不平等的问题。她的研究案例为肯尼亚的首都，内罗毕市。
+  <p>她的研究方向主要集中在数据收集和算法层面解决全球南方的数据收集不平等问题，研究案例为肯尼亚首都内罗毕市。</p>
 
-张文澜对于可持续智慧城市在全球南方的发展相关领域十分感兴趣，希望未来可以在此方向就业。
+  <p>张文澜对可持续智慧城市在全球南方的发展十分感兴趣，并希望未来在此领域就业。</p>
+</div>
 
-<!-- a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications. -->
-
-<!-- My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past. -->
-
-<!-- Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively. -->
 
 <!-- On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers. -->
 
