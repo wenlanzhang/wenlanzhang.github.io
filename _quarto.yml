@@ -53,7 +53,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Wenlan Zhang CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2024 Wenlan Zhang CC BY-SA 4.0</span>
 #    center: |
 #      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
 #    right: |
