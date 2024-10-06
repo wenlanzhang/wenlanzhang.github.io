@@ -4,12 +4,11 @@ title: Experience
 
 ## Research Assistant at the World Bank Group
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://netmob.org/', 'blank');"/>
 
-<a href="https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation" target="_blank">DIME, World Bank</a>
-<!--| <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br> -->
+<a href="https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation" target="_blank">World Bank(DIME)</a> | <a href="https://arxiv.org/abs/2410.00453" target="_blank">Data Challenge Paper</a><br> | <a href="https://github.com/wenlanzhang/Netmob24_datachallenge" target="_blank">Code</a><br>
 
-Supervisor: Sveta  
+Supervisor: Sveta Milusheva  
 Responsibility:  
  - Organising Netmob 2024  
  - Prepare dataset for Netmob Data Challenge  
@@ -21,7 +20,7 @@ Responsibility:
 
 ## Teaching Assistant at UCL
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.ucl.ac.uk/bartlett/casa/wenlan-zhang', 'blank');"/>
 
 <a href="https://www.ucl.ac.uk/" target="_blank">UCL</a> 
 <!--|  <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>-->
@@ -37,7 +36,7 @@ R, QGIS, Google Earth Engine
 
 ## Intern at United Nations Industrial Development Organization
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.unido.org/', 'blank');"/>
 
 <a href="https://www.unido.org/" target="_blank">UNIDO</a> 
 <!--|  <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>-->
