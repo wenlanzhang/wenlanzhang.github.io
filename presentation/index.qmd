@@ -2,15 +2,25 @@
 title: Presentation
 ---
 
-## [Association of American Geographers Annual Meetings 2024](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
+## [Netmob 2024](https://netmob.org/)
 
+
+**Date:** 7 - 9th October, 2024   
+**Location:** Washington, DC   
+**Title:** Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data   
+**Authors:** Dr. Sveta Milusheva, Wenlan Zhang  
+[View Presentation](https://www.canva.com/design/DAGShueQyS8/3js6UV-SFRZ5woiNdCDkJg/view?utm_content=DAGShueQyS8&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
+
+---
+
+## [Association of American Geographers Annual Meetings 2024](https://www.aag.org/events/aag2024/)
 ![AAG 2024](AAG_24.jpg)
 
 **Date:** 16 - 20th April, 2024   
 **Location:** Honolulu, Hawai'i, US    
 **Title:** A Data-Driven Approach for Identifying Open Dumping Sites in the Global South   
 **Authors:** Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao  
-[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf)
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf) | [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
 
 ---
 
