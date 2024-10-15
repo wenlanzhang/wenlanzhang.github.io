@@ -3,7 +3,7 @@ title: Presentation
 ---
 
 ## [Netmob 2024](https://netmob.org/)
-
+![Netmob 2024](Netmob_24.jpg)
 
 **Date:** 7 - 9th October, 2024   
 **Location:** Washington, DC   
@@ -13,7 +13,7 @@ title: Presentation
 
 ---
 
-## [Association of American Geographers Annual Meetings 2024](https://www.aag.org/events/aag2024/)
+## [Association of American Geographers Annual Meetings 2024 (AAG 2024)](https://www.aag.org/events/aag2024/)
 ![AAG 2024](AAG_24.jpg)
 
 **Date:** 16 - 20th April, 2024   
@@ -24,7 +24,7 @@ title: Presentation
 
 ---
 
-## [The 12th International Conference on Geographic Information Science](https://giscience2023.github.io/)
+## [The 12th International Conference on Geographic Information Science (GIScience 2023)](https://giscience2023.github.io/)
 
 ![GIScience 2023](GIScience_23.jpg)
 
