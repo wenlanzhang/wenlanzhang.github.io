@@ -2,34 +2,89 @@
 title: Presentation
 ---
 
-## [Netmob 2024](https://netmob.org/)
+------------------------------------------------------------------------
+
+## [The 8th International Disaster and Risk Conference (IDRC 2025)](https://idrc2025.cyens.org.cy/)
+
+**Date:** October 22-24, 2025\
+**Location:** CYENS Centre of Excellence, Nicosia, Cyprus\
+**Title:** Is Waste Blocking Our Cities? A Multisource Approach to Understanding Flood Disruption in Nairobi\
+**Authors:** Wenlan Zhang, Prof. Chen Zhong\
+**Acknowledgement:** This presentation was supported by IDRC 2025 Scholarship and realTRIPS project(ERC).\
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20251024IDRC.pdf)\
+
+------------------------------------------------------------------------
+
+## [Netmob 2025](https://netmob.org/www25/)
+
+![Netmob 2025]()
+
+**Date:** October 8-10, 2025\
+**Location:** Paris, France\
+**Title:** Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data\
+**Authors:**\
+**Acknowledgement:** This presentation was supported by Netmob 2025 student travel grant and Leverhulme Centre for Demographic Science (LCDS), University in Oxford.\
+[View Tutorial](https://github.com/OxfordDemSci/Mapineq/blob/214-add-code-to-api/docs/api_tutorial_jupyter_notebook/Mapineq_API.ipynb) \| [View](https://)
+
+------------------------------------------------------------------------
+
+## [City Plus 2025](https://www.city-plus.org/)
+
+![City+ 2025]()
+
+**Date:** September 29-30, 2025\
+**Location:** Oxford, UK\
+**Title:** Mapineq Workshop\
+**Workshop Team:** Dr. Douglas Leasure, Wenlan Zhang, Xiang Ao\
+[View Tutorial](https://github.com/OxfordDemSci/Mapineq/blob/214-add-code-to-api/docs/api_tutorial_jupyter_notebook/Mapineq_API.ipynb) \| [Summary](https://www.city-plus.org/city2025oxford-concluded-with-great-success/)
+
+------------------------------------------------------------------------
+
+## [11th International Conference on Computational Social Science (IC2S2 2025)](https://www.ic2s2-2025.org/)
+
+![IC2S2 2025]()
+
+**Date:** July 21-24, 2025\
+**Location:** Norrköping, Sweden\
+**Title:** AI for Spatial Justice: Multimodal and Street View Imagery Uncover Waste Disparities in Nairobi’s Informal Settlements\
+**Authors:** Wenlan Zhang, Prof. Chen Zhong, Prof. Qunshan Zhao\
+**Acknowledgement:** This presentation was supported by UCL CASA student travel grant.\
+[View Poster](https://github.com/OxfordDemSci/Mapineq/blob/214-add-code-to-api/docs/api_tutorial_jupyter_notebook/Mapineq_API.ipynb) \| [Abstract](https://www.ic2s2-2025.org/program/#sessions-list)
+
+------------------------------------------------------------------------
+
+## [Netmob 2024](https://netmob.org/www24/)
+
 ![Netmob 2024](Netmob_24.jpg)
 
-**Date:** 7 - 9th October, 2024   
-**Location:** Washington, DC   
-**Title:** Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data   
-**Authors:** Dr. Sveta Milusheva, Wenlan Zhang  
-[View Presentation](https://www.canva.com/design/DAGShueQyS8/3js6UV-SFRZ5woiNdCDkJg/view?utm_content=DAGShueQyS8&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
+**Date:** October 7-9, 2024\
+**Location:** Washington DC, US\
+**Title:** Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data\
+**Authors:** Dr. Sveta Milusheva, Wenlan Zhang\
+[View Presentation](https://www.canva.com/design/DAGShueQyS8/3js6UV-SFRZ5woiNdCDkJg/view?utm_content=DAGShueQyS8&utm_campaign=designshare&utm_medium=link&utm_source=editor) \| [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
 
----
+------------------------------------------------------------------------
 
 ## [Association of American Geographers Annual Meetings 2024 (AAG 2024)](https://www.aag.org/events/aag2024/)
+
 ![AAG 2024](AAG_24.jpg)
 
-**Date:** 16 - 20th April, 2024   
-**Location:** Honolulu, Hawai'i, US    
-**Title:** A Data-Driven Approach for Identifying Open Dumping Sites in the Global South   
-**Authors:** Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao  
-[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf) | [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
+**Date:** April 16-20, 2024\
+**Location:** Honolulu, Hawai'i, US\
+**Title:** A Data-Driven Approach for Identifying Open Dumping Sites in the Global South\
+**Authors:** Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao\
+**Acknowledgement:** This presentation was supported by realTRIPS project(ERC).\
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf) \| [Abstract](https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf)
 
----
+------------------------------------------------------------------------
 
 ## [The 12th International Conference on Geographic Information Science (GIScience 2023)](https://giscience2023.github.io/)
 
 ![GIScience 2023](GIScience_23.jpg)
 
-**Date:** 12 - 15th September, 2023  
-**Location:** Leeds, UK  
-**Title:** Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya  
-**Authors:** Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor  
-[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf) | [Read Short Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94)
+**Date:** September 12-15, 2023\
+**Location:** Leeds, UK\
+**Title:** Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya\
+**Authors:** Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor\
+**Acknowledgement:** This presentation was supported by realTRIPS project(ERC).\
+[View Presentation](https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf) \| [Read Short Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94)

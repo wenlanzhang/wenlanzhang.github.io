@@ -2,11 +2,27 @@
 title: Experience
 ---
 
-## Research Assistant at the World Bank Group
+## Research Assistant at Leverhulme Centre for Demographic Science, University of Oxford
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://netmob.org/', 'blank');"/>
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.demography.ox.ac.uk/', 'blank');"/>
 
-<a href="https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation" target="_blank">World Bank(DIME)</a> | <a href="https://arxiv.org/abs/2410.00453" target="_blank">Data Challenge Paper</a><br> | <a href="https://github.com/wenlanzhang/Netmob24_datachallenge" target="_blank">Code</a><br>
+<a href="https://mapineq.eu/" target="_blank">Mapineq Project</a> | <a href="https://dashboard.mapineq.org/" target="_blank">Mapineq Dashboard</a><br> | <a href="https://github.com/OxfordDemSci/Mapineq" target="_blank">Github</a><br>
+
+Supervisor: Prof. Melinda Mills, Dr. Douglas R. Leasure  
+Responsibility:  
+ - Data wrangling for Mapineq project  
+ - Work package Report
+ - Migration policy impact evaluation 
+
+<!-- I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.-->
+
+----
+
+## Research Assistant at Development Impact (DIME), World Bank Group
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2410.00453" target="_blank">Data Challenge Paper</a><br> | <a href="https://github.com/wenlanzhang/Netmob24_datachallenge" target="_blank">Code</a><br>
 
 Supervisor: Sveta Milusheva  
 Responsibility:  
