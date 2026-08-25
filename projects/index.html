@@ -10,24 +10,19 @@
 </head>
 <body>
   <nav class="nav">
-    <a href="../index.html" class="nav-brand">
-      <img src="../img/logo.png" alt="">
-      Wenlan Zhang
-    </a>
-    <div class="nav-links">
-      <a href="index.html" class="active">Projects</a>
-      <a href="../experience/index.html">Experience</a>
-      <a href="../education/index.html">Education</a>
-      <a href="../presentation/index.html">Presentation</a>
-      <a href="https://scholar.google.com/citations?user=Zr7A_v4AAAAJ&hl=en" target="_blank" rel="noopener">Publication</a>
-      <a href="../cv/index.html">CV</a>
-    </div>
-    <div class="nav-social">
-      <a href="https://www.zhangwenlan.com/" aria-label="Website"><i class="bi bi-link-45deg"></i></a>
-      <a href="https://twitter.com/ZHANGWENLAN54" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
-      <a href="https://github.com/wenlanzhang" aria-label="GitHub"><i class="bi bi-github"></i></a>
-      <a href="https://www.linkedin.com/in/wenlan-zhang" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-      <a href="mailto:wenlan.zhang.21@ucl.ac.uk" aria-label="Email"><i class="bi bi-envelope"></i></a>
+    <div class="nav-inner">
+      <a href="../index.html" class="nav-brand">
+        <img src="../img/logo.png" alt="">
+        Wenlan Zhang
+      </a>
+      <div class="nav-links">
+        <a href="index.html" class="active">Projects</a>
+        <a href="../experience/index.html">Experience</a>
+        <a href="../education/index.html">Education</a>
+        <a href="../presentation/index.html">Presentation</a>
+        <a href="https://scholar.google.com/citations?user=Zr7A_v4AAAAJ&hl=en" target="_blank" rel="noopener">Publication</a>
+        <a href="../cv/index.html">CV</a>
+      </div>
     </div>
   </nav>
 
@@ -35,9 +30,60 @@
     <h1 class="page-title">Projects</h1>
 
     <article class="card">
-      <h2>Wildfire Detection and Forest Management (ISEC)</h2>
+      <h2>Policy-Induced Push Migration</h2>
+      <p class="card-meta">Case Studies: Chile–United States &amp; Turkey–Germany | Manuscript submitted to <em>International Migration Review</em></p>
+      <img src="../experience/Migration_banner.png" alt="Global migration flows visualisation" onclick="window.open('https://mapineq.eu/report-policy-induced-push-migration/', '_blank');">
+      <div class="card-links">
+        <a href="https://mapineq.eu/report-policy-induced-push-migration/" target="_blank" rel="noopener">📄 Report</a>
+      </div>
+      <ul>
+        <li>Combined high-frequency Meta mobility data with a causal BACI design to measure cross-border migration responses to policy change</li>
+        <li>Developed a policy-induced push migration framework to test whether migration reforms in host or transit countries generate onward movement along international corridors</li>
+        <li>Found substantial post-policy increases in onward migration, with flows approximately 240% higher for Chile→US and 122% higher for Turkey→Germany relative to synthetic controls</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h2>Satellite-Based Tent Detection, Gaza</h2>
+      <p class="card-meta">In collaboration with <a href="https://realgoodresearch.com/" target="_blank" rel="noopener">Real Good Research</a> | Ongoing</p>
+      <ul>
+        <li>Applying computer-vision methods to satellite imagery to detect tents and informal shelters</li>
+        <li>Supporting humanitarian situational awareness for displacement and shelter mapping in Gaza</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h2>Visible Waste, Invisible Inequality</h2>
+      <p class="card-meta">Case Study: Nairobi, Kenya | Under review, <em>Applied Geography</em></p>
+      <img src="waste_banner.png" alt="Street-view waste disparity across urban poor and formal areas" onclick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133558', '_blank');">
+      <div class="card-links">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133558" target="_blank" rel="noopener">📄 SSRN Preprint</a>
+      </div>
+      <ul>
+        <li>Developed a multimodal <strong>computer vision–vision language pipeline</strong> to detect visible waste across city-scale street-view imagery</li>
+        <li>Mapped the <strong>spatial concentration and clustering of visible waste</strong> across Nairobi while accounting for the uneven Street View observation frame</li>
+        <li>Found that visible waste was <strong>4.43 times more frequent within mapped urban-poor settlements</strong>, with occurrence declining sharply with distance from settlement boundaries</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h2>Revealing Digitally Invisible Groups</h2>
+      <p class="card-meta">Case Study: Nairobi, Kenya | <em>Transactions in Urban Data, Science, and Technology</em></p>
+      <img src="landuse_banner.png" alt="Revealing digitally invisible groups with multi-source machine learning" onclick="window.open('https://journals.sagepub.com/doi/full/10.1177/27541231261457648', '_blank');">
+      <div class="card-links">
+        <a href="https://journals.sagepub.com/doi/full/10.1177/27541231261457648" target="_blank" rel="noopener">📄 Paper</a>
+      </div>
+      <ul>
+        <li>Developed a multi-source machine-learning framework to identify representation gaps in urban digital data</li>
+        <li>Compared satellite imagery, nighttime lights, building footprints, social media and street-view imagery to reveal which urban populations are digitally underrepresented</li>
+        <li>Demonstrated how data-source choice and combination shape what we can observe about cities, using land-use mapping in Nairobi as a case study</li>
+      </ul>
+    </article>
+
+    <article class="card">
+      <h2>Wildfire Detection and Forest Management</h2>
       <p class="card-meta">Case Study: Euboea, Greece | Funded by: <a href="https://www.aristeia.us/isec.html" target="_blank" rel="noopener">Interdisciplinary School for Environmental Crisis (ISEC)</a></p>
-      <img src="project_1_banner.JPG" alt="Wildfire Detection" onclick="window.open('https://www.aristeia.us/isec-program.html', '_blank');">
+      <img src="wildfire_banner.png" alt="Wildfire Detection" onclick="window.open('https://www.aristeia.us/isec-program.html', '_blank');">
       <div class="card-links">
         <a href="https://zhangwl54.projects.earthengine.app/view/firedetectionevia" target="_blank" rel="noopener">🌍 Fire Detection App</a>
         |
@@ -65,20 +111,17 @@
         <li>As a facilitator of the team, demonstrated leadership and project management skills in the interdisciplinary setting</li>
       </ul>
     </article>
-
-    <article class="card">
-      <h2>Land Use and Informal Settlements Mapping</h2>
-      <p class="card-meta">Case Study: Nairobi, Kenya</p>
-      <ul>
-        <li>Proposed a framework of using multi-source publicly available data to identify informal settlements</li>
-        <li>Applied the framework on case study of Nairobi and identified the informal settlements</li>
-        <li>Evaluated the performance of the framework by comparing the output with the best available land use map</li>
-      </ul>
-    </article>
   </main>
 
   <footer>
-    © 2024 Wenlan Zhang CC BY-SA 4.0
+    <div class="footer-social">
+      <a href="https://scholar.google.com/citations?user=Zr7A_v4AAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="bi bi-mortarboard"></i></a>
+      <a href="https://twitter.com/ZHANGWENLAN54" target="_blank" rel="noopener" aria-label="Twitter"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://github.com/wenlanzhang" target="_blank" rel="noopener" aria-label="GitHub"><i class="bi bi-github"></i></a>
+      <a href="https://www.linkedin.com/in/wenlan-zhang" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+      <a href="mailto:wenlan.zhang.21@ucl.ac.uk" aria-label="Email"><i class="bi bi-envelope"></i></a>
+    </div>
+    <p class="footer-copy">© 2025 Wenlan Zhang CC BY-SA 4.0</p>
   </footer>
 </body>
 </html>

@@ -13,13 +13,14 @@ Live at: <https://www.zhangwenlan.com/>
 - `presentation/` - Conference presentations
 - `cv/` - Curriculum vitae
 - `styles.css` - Shared styles
+- `lang-toggle.js` - Homepage language switcher
 - `img/` - Images (logo, favicon, profile photo)
 
 ## Assets
 
 Keep your images in:
 - `img/` - logo.png, favicon.png, my_image.JPEG
-- `projects/` - project_1_banner.JPG, project_2_banner.png
-- `experience/` - project_1_banner.png, project_2_banner.png
+- `projects/` - waste_banner.png, landuse_banner.png, wildfire_banner.png, project_2_banner.png
+- `experience/` - Migration_banner.png, WorldBank_banner.png
 - `presentation/` - IDRC25.png, Netmob2025.png, etc.
 - `cv/` - cv_Wenlan,Zhang.pdf
