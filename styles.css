@@ -2,14 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&display=swap');
 
 :root {
-  --color-bg: #faf9f7;
+  --color-bg: #F0F2F8;
   --color-surface: #ffffff;
-  --color-text: #2d2a26;
-  --color-text-muted: #6b6560;
-  --color-accent: #068194;
-  --color-accent-hover: #056a7a;
-  --color-border: #e8e6e3;
-  --color-card-shadow: rgba(45, 42, 38, 0.06);
+  --color-text: #384157;
+  --color-text-muted: #606A81;
+  --color-accent: #606A81;
+  --color-accent-hover: #384157;
+  --color-border: #D2DCF0;
+  --color-card-shadow: rgba(56, 65, 87, 0.08);
+  --color-accent-soft: rgba(96, 106, 129, 0.12);
   --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: 'DM Serif Display', Georgia, serif;
   --max-width: 840px;
@@ -98,12 +99,12 @@ body {
 .nav-links a:hover,
 .nav-links a:focus-visible {
   color: var(--color-accent);
-  background: rgba(6, 129, 148, 0.08);
+  background: var(--color-accent-soft);
   outline: none;
 }
 
 .nav-links a.active {
-  color: var(--color-accent);
+  color: var(--color-accent-hover);
   font-weight: 500;
 }
 
@@ -247,8 +248,8 @@ h3 {
 
 .card:hover,
 .card:focus-within {
-  box-shadow: 0 6px 24px rgba(45, 42, 38, 0.1);
-  border-color: rgba(6, 129, 148, 0.22);
+  box-shadow: 0 6px 24px rgba(56, 65, 87, 0.12);
+  border-color: #A0B7D8;
   transform: translateY(-1px);
 }
 
