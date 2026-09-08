@@ -6,7 +6,7 @@
   <title>Projects | Wenlan Zhang</title>
   <link rel="icon" href="../img/favicon.png" type="image/png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <link rel="stylesheet" href="../styles.css?v=8">
+  <link rel="stylesheet" href="../styles.css?v=13">
 </head>
 <body>
   <nav class="nav">
@@ -15,7 +15,7 @@
         Wenlan Zhang
       </a>
       <div class="nav-links">
-        <a href="index.html" class="active">Projects</a>
+        <a href="index.html" class="active" aria-current="page">Projects</a>
         <a href="../experience/index.html">Experience</a>
         <a href="../education/index.html">Education</a>
         <a href="../presentation/index.html">Presentation</a>
@@ -26,7 +26,7 @@
   </nav>
 
   <main>
-    <h1 class="page-title">Projects</h1>
+    <h1 class="visually-hidden">Projects</h1>
 
     <article class="card">
       <h2>Satellite-Based Tent Detection, Gaza</h2>
@@ -43,97 +43,139 @@
       <div class="card-links">
         <a href="https://data.realgoodresearch.com/collection.html?slug=gazatents-1jul2026" target="_blank" rel="noopener">📄 Data and Report</a>
       </div>
+      <!--
       <ul>
         <li>Applying computer-vision methods to satellite imagery to detect tents and informal shelters</li>
         <li>Supporting humanitarian situational awareness for displacement and shelter mapping in Gaza</li>
       </ul>
+      -->
+    </article>
+
+    <article class="card">
+      <h2>National Conversation</h2>
+      <p class="card-meta">United Kingdom | Funded by: BBC | Ongoing</p>
+      <!-- Add banner: national_conversation.png -->
+      <div class="card-links">
+        <a href="https://www.national-conversation.ox.ac.uk/" target="_blank" rel="noopener">📝 Take the Survey</a>
+        |
+        <a href="https://www.thenationalconversation.org.uk/" target="_blank" rel="noopener">🌐 Project</a>
+      </div>
+      <p class="card-summary">Neighbourhood deprivation changes the environments people experience, but little about the kinds of places they value.</p>
+      <!--
+      <ul>
+        <li>Linked National Conversation liked and disliked place pins to neighbourhood deprivation (IMD), points of interest, and free-text comments</li>
+        <li>Found people consistently like green, walkable, community places and dislike roads, stations, and housing estates</li>
+        <li>Showed that deprivation changes the environments people encounter, while core place preferences remain largely shared across IMD</li>
+      </ul>
+      -->
     </article>
 
     <article class="card">
       <h2>Detecting Migration Surges with Digital Trace Data</h2>
       <p class="card-meta">Case Studies: Chile–United States &amp; Turkey–Germany | Manuscript submitted to <em>International Migration Review</em></p>
-      <img src="../experience/Migration_banner.png" alt="Global migration flows visualisation" onclick="window.open('https://mapineq.eu/report-policy-induced-push-migration/', '_blank');">
+      <video autoplay muted loop playsinline aria-label="Global migration flows visualisation">
+        <source src="../experience/MigrationMap_Flow.mp4?v=2" type="video/mp4">
+      </video>
       <div class="card-links">
         <a href="https://mapineq.eu/report-policy-induced-push-migration/" target="_blank" rel="noopener">📄 Report</a>
       </div>
+      <p class="card-summary">Policy change was followed by onward flows about 240% higher Chile→US and 122% higher Turkey→Germany than synthetic controls.</p>
+      <!--
       <ul>
         <li>Combined high-frequency Meta mobility data with a causal BACI design to measure cross-border migration responses to policy change</li>
         <li>Developed a policy-induced push migration framework to test whether migration reforms in host or transit countries generate onward movement along international corridors</li>
         <li>Found substantial post-policy increases in onward migration, with flows approximately 240% higher for Chile→US and 122% higher for Turkey→Germany relative to synthetic controls</li>
       </ul>
+      -->
     </article>
 
     <article class="card">
       <h2>Can We Predict Internet Connectivity?</h2>
       <p class="card-meta">Case Studies: Kenya and Mexico | In collaboration with <a href="https://www.itu.int/" target="_blank" rel="noopener">International Telecommunication Union</a></p>
       <video autoplay muted loop playsinline>
-        <source src="internet_connectivity.mp4" type="video/mp4">
+        <source src="internet_connectivity.mp4?v=2" type="video/mp4">
       </video>
+      <!--
       <ul>
         <li>Analysed 79 socioeconomic, demographic, infrastructural, and spatial features influencing internet connectivity across 4 urban areas in Kenya and Mexico</li>
         <li>Developed and benchmarked 9 statistical, machine-learning, and spatial models, achieving test R² up to 0.88 and spatial-model R² up to 0.92</li>
         <li>Evaluated model generalisation across regions and countries, with R² ~0.45 for Nairobi→Mombasa but R² &lt; 0 for Kenya→Mexico</li>
       </ul>
+      -->
     </article>
 
     <article class="card">
       <h2>Visible Waste, Invisible Inequality</h2>
       <p class="card-meta">Case Study: Nairobi, Kenya | Under review, <em>Applied Geography</em></p>
-      <img src="waste_banner.png" alt="Street-view waste disparity across urban poor and formal areas" onclick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133558', '_blank');">
+      <a class="card-figure" href="visible_waste.png" target="_blank" rel="noopener">
+        <img src="visible_waste.png" alt="Street-view waste disparity across urban poor and formal areas">
+      </a>
       <div class="card-links">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133558" target="_blank" rel="noopener">📄 SSRN Preprint</a>
       </div>
+      <!--
       <ul>
         <li>Developed a multimodal <strong>computer vision–vision language pipeline</strong> to detect visible waste across city-scale street-view imagery</li>
         <li>Mapped the <strong>spatial concentration and clustering of visible waste</strong> across Nairobi while accounting for the uneven Street View observation frame</li>
         <li>Found that visible waste was <strong>4.43 times more frequent within mapped urban-poor settlements</strong>, with occurrence declining sharply with distance from settlement boundaries</li>
       </ul>
+      -->
     </article>
 
     <article class="card">
       <h2>Revealing Digitally Invisible Groups</h2>
       <p class="card-meta">Case Study: Nairobi, Kenya | <em>Transactions in Urban Data, Science, and Technology</em></p>
-      <img src="landuse_banner.png" alt="Revealing digitally invisible groups with multi-source machine learning" onclick="window.open('https://journals.sagepub.com/doi/full/10.1177/27541231261457648', '_blank');">
+      <a class="card-figure" href="digitally_invisible.png" target="_blank" rel="noopener">
+        <img src="digitally_invisible.png" alt="Revealing digitally invisible groups with multi-source machine learning">
+      </a>
       <div class="card-links">
         <a href="https://journals.sagepub.com/doi/full/10.1177/27541231261457648" target="_blank" rel="noopener">📄 Paper</a>
       </div>
+      <!--
       <ul>
         <li>Developed a multi-source machine-learning framework to identify representation gaps in urban digital data</li>
         <li>Compared satellite imagery, nighttime lights, building footprints, social media and street-view imagery to reveal which urban populations are digitally underrepresented</li>
         <li>Demonstrated how data-source choice and combination shape what we can observe about cities, using land-use mapping in Nairobi as a case study</li>
       </ul>
+      -->
     </article>
 
     <article class="card">
       <h2>Wildfire Detection and Forest Management</h2>
       <p class="card-meta">Case Study: Euboea, Greece | Funded by: <a href="https://www.aristeia.us/isec.html" target="_blank" rel="noopener">Interdisciplinary School for Environmental Crisis (ISEC)</a></p>
-      <img src="wildfire_banner.png" alt="Wildfire Detection" onclick="window.open('https://www.aristeia.us/isec-program.html', '_blank');">
+      <img src="wildfire_banner.png" alt="Wildfire Detection">
       <div class="card-links">
         <a href="https://zhangwl54.projects.earthengine.app/view/firedetectionevia" target="_blank" rel="noopener">🌍 Fire Detection App</a>
         |
         <a href="https://www.canva.com/design/DAF3nbr3Uvo/yx4Gr8MoqEFrE-xZueCnbw/view?utm_content=DAF3nbr3Uvo&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener">📊 Presentation</a>
       </div>
+      <!--
       <ul>
         <li>Designed a remote-sensing-based wildfire detection system to improve early warning capabilities with Google Earth Engine</li>
         <li>Assessed forest management strategies, e.g. conservation practices and post-wildfire restoration approaches</li>
         <li>Examined public engagement in wildfire preparedness and mitigation, and investigated the roles of key stakeholders to strengthen local resilience and response strategies</li>
       </ul>
+      -->
     </article>
 
     <article class="card">
-      <h2>Land Cover Change Detection (Alan Turing Institute)</h2>
+      <h2>Land Cover Change Detection</h2>
       <p class="card-meta">Case Study: Peak District, UK | Funded by: <a href="https://www.turing.ac.uk/" target="_blank" rel="noopener">The Alan Turing Institute</a></p>
-      <img src="project_2_banner.png" alt="Land Cover Change Detection" onclick="window.open('https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority', '_blank');">
+      <a class="card-figure" href="land_change.png" target="_blank" rel="noopener">
+        <img src="land_change.png" alt="Land Cover Change Detection">
+      </a>
       <div class="card-links">
         <a href="https://www.turing.ac.uk/sites/default/files/2023-11/turing_dsg_report_2023_peak_district_final.pdf" target="_blank" rel="noopener">📄 Report</a>
         |
         <a href="https://github.com/alan-turing-institute/DSGMay23PeakDistrict" target="_blank" rel="noopener">💻 Code</a>
       </div>
+      <!--
       <ul>
         <li>Contributed to innovative solutions for land cover change detection using various methods including deep learning</li>
         <li>Played a key role in a collaborative project, advancing understanding in environmental science and data technology</li>
         <li>As a facilitator of the team, demonstrated leadership and project management skills in the interdisciplinary setting</li>
       </ul>
+      -->
     </article>
   </main>
 

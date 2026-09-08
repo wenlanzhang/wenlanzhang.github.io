@@ -58,9 +58,9 @@ body {
 }
 
 .nav-brand {
-  font-family: var(--font-serif);
-  font-size: 1.35rem;
-  font-weight: 400;
+  font-family: var(--font-sans);
+  font-size: 1.15rem;
+  font-weight: 600;
   line-height: 1.3;
   color: var(--color-text);
   text-decoration: none;
@@ -104,8 +104,9 @@ body {
 }
 
 .nav-links a.active {
-  color: var(--color-accent-hover);
-  font-weight: 500;
+  color: var(--color-text);
+  font-weight: 700;
+  background: var(--color-accent-soft);
 }
 
 /* Main content */
@@ -215,6 +216,18 @@ main {
   color: var(--color-text);
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* Section headings */
 h2 {
   font-family: var(--font-sans);
@@ -289,11 +302,20 @@ h3 {
   border-radius: 8px;
   display: block;
   margin: 0 auto 1rem;
-  cursor: pointer;
+}
+
+a.card-figure {
+  display: block;
+  margin: 0 auto 1rem;
+}
+
+a.card-figure img {
+  margin-bottom: 0;
+  cursor: zoom-in;
   transition: opacity 0.2s;
 }
 
-.card img:hover {
+a.card-figure:hover img {
   opacity: 0.92;
 }
 
@@ -380,7 +402,8 @@ h3 {
   background: transparent;
 }
 
-.compare-slider figcaption {
+.compare-slider figcaption,
+.card-summary {
   text-align: center;
   font-size: 0.85rem;
   color: var(--color-text-muted);
