@@ -3,7 +3,7 @@
   if (!toggle) return;
 
   var buttons = toggle.querySelectorAll('.lang-btn');
-  var panels = document.querySelectorAll('.bio[data-lang]');
+  var panels = document.querySelectorAll('[data-lang]:not(.lang-btn)');
 
   function showLang(lang) {
     buttons.forEach(function (btn) {
@@ -15,6 +15,8 @@
     panels.forEach(function (panel) {
       panel.hidden = panel.dataset.lang !== lang;
     });
+
+    document.documentElement.lang = lang;
 
     try {
       localStorage.setItem('bio-lang', lang);

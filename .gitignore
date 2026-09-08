@@ -1,11 +1,2 @@
 # macOS
 .DS_Store
-
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-/.quarto/
-/site_libs/
-/_freeze/
