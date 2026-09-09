@@ -15,6 +15,7 @@
   --font-serif: 'DM Serif Display', Georgia, serif;
   --max-width: 840px;
   --nav-height: 64px;
+  --card-banner-ratio: 1400 / 530;
 }
 
 * {
@@ -339,9 +340,14 @@ h3 {
   text-decoration: underline;
 }
 
-.card img {
+.card img,
+.card video {
+  width: 100%;
   max-width: 100%;
   height: auto;
+  aspect-ratio: var(--card-banner-ratio);
+  object-fit: cover;
+  object-position: center;
   border-radius: 8px;
   display: block;
   margin: 0 auto 1rem;
@@ -362,14 +368,6 @@ a.card-figure:hover img {
   opacity: 0.92;
 }
 
-.card video {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  display: block;
-  margin: 0 auto 1rem;
-}
-
 .compare-slider {
   margin: 0 auto 1rem;
 }
@@ -377,7 +375,7 @@ a.card-figure:hover img {
 .compare-slider-frame {
   position: relative;
   width: 100%;
-  aspect-ratio: 1024 / 388;
+  aspect-ratio: var(--card-banner-ratio);
   overflow: hidden;
   border-radius: 8px;
   cursor: ew-resize;
@@ -391,6 +389,7 @@ a.card-figure:hover img {
   inset: 0;
   width: 100%;
   height: 100%;
+  aspect-ratio: auto;
   object-fit: cover;
   object-position: center center;
   margin: 0;
@@ -446,12 +445,79 @@ a.card-figure:hover img {
 }
 
 .compare-slider figcaption,
+.survey-lab figcaption,
 .card-summary {
   text-align: center;
   font-size: 0.85rem;
   color: var(--color-text-muted);
   margin-top: 0.5rem;
   font-style: italic;
+}
+
+.survey-lab {
+  margin: 0 auto 1rem;
+}
+
+.survey-lab-board {
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: var(--card-banner-ratio);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  background: #000;
+}
+
+.survey-lab-stage {
+  display: grid;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.survey-lab-frame {
+  grid-area: 1 / 1;
+  margin: 0;
+  color: #00ff00;
+  font-family: "Courier New", Courier, monospace;
+  font-size: clamp(0.4rem, 2.2vw, 0.95rem);
+  line-height: 1.15;
+  white-space: pre;
+}
+
+.survey-lab-frame.is-a {
+  animation: survey-type-a 0.7s steps(1, end) infinite;
+}
+
+.survey-lab-frame.is-b {
+  opacity: 0;
+  animation: survey-type-b 0.7s steps(1, end) infinite;
+}
+
+@keyframes survey-type-a {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+
+@keyframes survey-type-b {
+  0%, 49% { opacity: 0; }
+  50%, 100% { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .survey-lab-frame.is-a,
+  .survey-lab-frame.is-b {
+    animation: none;
+  }
+
+  .survey-lab-frame.is-b {
+    opacity: 0;
+  }
+
+  .survey-lab-frame.is-a {
+    opacity: 1;
+  }
 }
 
 .card-links {

@@ -6,7 +6,7 @@
   <title>Projects | Wenlan Zhang</title>
   <link rel="icon" href="../img/favicon.png" type="image/png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <link rel="stylesheet" href="../styles.css?v=13">
+  <link rel="stylesheet" href="../styles.css?v=16">
 </head>
 <body>
   <nav class="nav">
@@ -29,8 +29,8 @@
     <h1 class="visually-hidden">Projects</h1>
 
     <article class="card">
-      <h2>Satellite-Based Tent Detection, Gaza</h2>
-      <p class="card-meta"><a href="https://realgoodresearch.com/" target="_blank" rel="noopener">Real Good Research</a> | Ongoing</p>
+      <h2>Satellite-Based Tent Detection for Population Estimation</h2>
+      <p class="card-meta">Case Study: Gaza | <a href="https://realgoodresearch.com/" target="_blank" rel="noopener">Real Good Research</a> | Ongoing</p>
       <figure class="compare-slider">
         <div class="compare-slider-frame">
           <img src="gaza_tents_satellite.jpg?v=2" alt="Planet Labs satellite image of Gaza">
@@ -54,13 +54,38 @@
     <article class="card">
       <h2>National Conversation</h2>
       <p class="card-meta">United Kingdom | Funded by: BBC | Ongoing</p>
-      <!-- Add banner: national_conversation.png -->
+      <figure class="survey-lab">
+        <div class="survey-lab-board" role="img" aria-label="Animated drawing of a researcher typing at a computer, working hard to generate the survey results.">
+          <div class="survey-lab-stage" aria-hidden="true">
+<pre class="survey-lab-frame is-a"> ______________________________________
+|  __________________________________  |
+| |                                  | |  _o /
+| |      National Conversation       | |  /\_
+| |     [=======>         ] 48%      | |  _/\_&gt; *click*
+| |                                  | |  /    \
+| |__________________________________| |
+|______________________________________|
+                   ||
+                  /__\</pre>
+<pre class="survey-lab-frame is-b"> ______________________________________
+|  __________________________________  |
+| |                                  | |  _o\
+| |      National Conversation       | |  /_/
+| |     [=========>       ] 63%      | |  &lt;_\_  *clack*
+| |                                  | |  /    \
+| |__________________________________| |
+|______________________________________|
+                   ||
+                  /__\</pre>
+          </div>
+        </div>
+        <figcaption>Hard at work generating the results.</figcaption>
+      </figure>
       <div class="card-links">
         <a href="https://www.national-conversation.ox.ac.uk/" target="_blank" rel="noopener">📝 Take the Survey</a>
         |
         <a href="https://www.thenationalconversation.org.uk/" target="_blank" rel="noopener">🌐 Project</a>
       </div>
-      <p class="card-summary">Neighbourhood deprivation changes the environments people experience, but little about the kinds of places they value.</p>
       <!--
       <ul>
         <li>Linked National Conversation liked and disliked place pins to neighbourhood deprivation (IMD), points of interest, and free-text comments</li>
@@ -211,6 +236,22 @@
         posFromEvent(event);
       });
     });
+
+    (function () {
+      var stage = document.querySelector('.survey-lab-stage');
+      var frames = document.querySelectorAll('.survey-lab-frame');
+      if (!stage || !frames.length) return;
+      function fitAscii() {
+        frames.forEach(function (frame) { frame.style.fontSize = ''; });
+        var natural = frames[0].scrollWidth;
+        if (!natural) return;
+        var current = parseFloat(window.getComputedStyle(frames[0]).fontSize);
+        var next = Math.max(6, current * ((stage.clientWidth - 4) / natural));
+        frames.forEach(function (frame) { frame.style.fontSize = next + 'px'; });
+      }
+      fitAscii();
+      window.addEventListener('resize', fitAscii);
+    })();
   </script>
 </body>
 </html>
