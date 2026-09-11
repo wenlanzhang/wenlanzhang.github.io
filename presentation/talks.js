@@ -1,9 +1,7 @@
 (function () {
-  var yearButtons = document.querySelectorAll('[data-filter="year"] button');
   var themeButtons = document.querySelectorAll('[data-filter="theme"] button');
   var cards = document.querySelectorAll('.talk-card');
   var hoverNone = window.matchMedia('(hover: none)').matches;
-  var year = 'all';
   var theme = 'all';
 
   function setActive(buttons, selected) {
@@ -16,22 +14,12 @@
 
   function applyFilters() {
     cards.forEach(function (card) {
-      var yearOk = year === 'all' || card.getAttribute('data-year') === year;
       var themes = (card.getAttribute('data-themes') || '').split(/\s+/).filter(Boolean);
-      var themeOk = theme === 'all' || themes.indexOf(theme) !== -1;
-      var show = yearOk && themeOk;
+      var show = theme === 'all' || themes.indexOf(theme) !== -1;
       card.hidden = !show;
       if (!show) card.classList.remove('is-open');
     });
   }
-
-  yearButtons.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      year = btn.getAttribute('data-year');
-      setActive(yearButtons, btn);
-      applyFilters();
-    });
-  });
 
   themeButtons.forEach(function (btn) {
     btn.addEventListener('click', function () {
