@@ -6,7 +6,7 @@
   <title>Presentation | Wenlan Zhang</title>
   <link rel="icon" href="../img/favicon.png" type="image/png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <link rel="stylesheet" href="../styles.css?v=11">
+  <link rel="stylesheet" href="../styles.css?v=24">
 </head>
 <body>
   <nav class="nav">
@@ -25,126 +25,218 @@
     </div>
   </nav>
 
-  <main>
+  <main class="pres-main">
     <h1 class="visually-hidden">Presentation</h1>
 
-    <article class="pres-card">
-      <h2><a href="https://icsc-conf.github.io/2026/" target="_blank" rel="noopener">International Conference on Social Computing (ICSC 2026)</a></h2>
-      <img src="Meta%20Pop.png" alt="ICSC 2026 title slide: Who is Missing? Deprivation and coverage gaps in Meta's crisis population data">
-      <p><strong>Date:</strong> September 3, 2026</p>
-      <p><strong>Location:</strong> Nuffield College, University of Oxford, Oxford, UK</p>
-      <p><strong>Session:</strong> Digital and Computational Demography</p>
-      <p><strong>Title:</strong> Who is Missing? Deprivation and Coverage Gaps in Meta's Crisis Population Data</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong, Dr. Yanbo Pang</p>
-      <p><a href="https://canva.link/z8mmtnh3zueklin" target="_blank" rel="noopener">View Presentation</a> | <a href="https://icsc-conf.github.io/2026/schedule.html" target="_blank" rel="noopener">Programme</a></p>
-    </article>
+    <div class="talks-filters">
+      <div class="talks-filter" data-filter="year" role="group" aria-label="Filter talks by year">
+        <span class="talks-filter-label">Filter by year</span>
+        <button type="button" class="active" data-year="all" aria-pressed="true">All</button>
+        <button type="button" data-year="2026" aria-pressed="false">2026</button>
+        <button type="button" data-year="2025" aria-pressed="false">2025</button>
+        <button type="button" data-year="2024" aria-pressed="false">2024</button>
+        <button type="button" data-year="2023" aria-pressed="false">2023</button>
+      </div>
+      <div class="talks-filter" data-filter="theme" role="group" aria-label="Filter talks by theme">
+        <span class="talks-filter-label">Filter by theme</span>
+        <button type="button" class="active" data-theme="all" aria-pressed="true">All</button>
+        <button type="button" data-theme="bias" aria-pressed="false">Bias</button>
+        <button type="button" data-theme="env" aria-pressed="false">Environment</button>
+        <button type="button" data-theme="mobile" aria-pressed="false">Mobile</button>
+      </div>
+    </div>
 
-    <article class="pres-card">
-      <h2><a href="https://de-bias.github.io/debias/" target="_blank" rel="noopener">DEBIAS Workshop and Symposium</a></h2>
-      <img src="2607_DEBIAS.jpg" alt="DEBIAS Workshop and Symposium 2026">
-      <p><strong>Date:</strong> July 8, 2026</p>
-      <p><strong>Location:</strong> University of Liverpool, Liverpool, UK</p>
-      <p><strong>Title:</strong> From Street View to Waste Indicators: Where Does Data Bias Enter?</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by ERC funded realTRIPS project.</p>
-      <p><a href="https://canva.link/tp7vagrz7i823co" target="_blank" rel="noopener">View Presentation</a></p>
-    </article>
+    <div class="talk-grid">
+      <article class="talk-card" data-year="2026" data-themes="bias" tabindex="0">
+        <img src="Meta%20Pop.png" alt="ICSC 2026 title slide: Who is Missing? Deprivation and coverage gaps in Meta's crisis population data">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2026</span>
+        <h2 class="talk-venue">ICSC 2026</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">ICSC 2026</p>
+          <p><strong>Date:</strong> September 3, 2026</p>
+          <p><strong>Location:</strong> Nuffield College, University of Oxford, Oxford, UK</p>
+          <p><strong>Session:</strong> Digital and Computational Demography</p>
+          <p><strong>Title:</strong> Who is Missing? Deprivation and Coverage Gaps in Meta's Crisis Population Data</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong, Dr. Yanbo Pang</p>
+          <p class="talk-links">
+            <a href="https://canva.link/z8mmtnh3zueklin" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://icsc-conf.github.io/2026/schedule.html" target="_blank" rel="noopener">Programme</a>
+            <a href="https://icsc-conf.github.io/2026/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2>Waste at Margins Workshop</h2>
-      <img src="WasteatMargins.jpg" alt="Waste at Margins Workshop">
-      <p><strong>Date:</strong> June 4, 2026</p>
-      <p><strong>Location:</strong> Nairobi, Kenya</p>
-      <p><strong>Title:</strong> Accumulated Waste Piles Mapping with ML</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
-      <p><strong>Workshop in collaboration with:</strong></p>
-      <ul>
-        <li><strong>African Population and Health Research Center (APHRC):</strong> Francis C. Onyambu, Caroline Kabaria, Blessing Uchenna Mberu, Esther Judith, Caleb Cheruiyot</li>
-        <li><strong>Kounkuey Design Initiative (KDI):</strong> Wacera Thande, Mathews Wakhungu</li>
-        <li><strong>United Nations Human Settlements Programme (UN-Habitat):</strong> Mercy Achieng Odhiambo, Rosebell Osoo</li>
-        <li><strong>Community Mappers:</strong> Nicera Wanjiru, Purity</li>
-        <li><strong>University College London (UCL):</strong> Chen Zhong, Stephen Law, Anwar Musah, Wenlan Zhang</li>
-      </ul>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by UCL Global Engagement Funds.</p>
-      <p><a href="https://canva.link/cr5bh1rafbpt4ab" target="_blank" rel="noopener">View Presentation</a></p>
-    </article>
+      <article class="talk-card" data-year="2026" data-themes="bias env" tabindex="0">
+        <img src="2607_DEBIAS.jpg" alt="DEBIAS Workshop and Symposium 2026">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2026</span>
+        <h2 class="talk-venue">DEBIAS 2026</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">DEBIAS Workshop and Symposium</p>
+          <p><strong>Date:</strong> July 8, 2026</p>
+          <p><strong>Location:</strong> University of Liverpool, Liverpool, UK</p>
+          <p><strong>Title:</strong> From Street View to Waste Indicators: Where Does Data Bias Enter?</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
+          <p class="talk-links">
+            <a href="https://canva.link/tp7vagrz7i823co" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://de-bias.github.io/debias/" target="_blank" rel="noopener">Workshop</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://idrc2025.cyens.org.cy/" target="_blank" rel="noopener">The 8th International Disaster and Risk Conference (IDRC 2025)</a></h2>
-      <img src="IDRC25.png" alt="IDRC 2025">
-      <p><strong>Date:</strong> October 22-24, 2025</p>
-      <p><strong>Location:</strong> CYENS Centre of Excellence, Nicosia, Cyprus</p>
-      <p><strong>Title:</strong> Is Waste Blocking Our Cities? A Multisource Approach to Understanding Flood Disruption in Nairobi</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by IDRC 2025 Scholarship and realTRIPS project (ERC).</p>
-      <p><a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20251024IDRC.pdf" target="_blank" rel="noopener">View Presentation</a></p>
-    </article>
+      <article class="talk-card" data-year="2026" data-themes="env" tabindex="0">
+        <img src="WasteatMargins.jpg" alt="Waste at Margins Workshop">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2026</span>
+        <h2 class="talk-venue">Waste at Margins</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">Waste at Margins Workshop</p>
+          <p><strong>Date:</strong> June 4, 2026</p>
+          <p><strong>Location:</strong> Nairobi, Kenya</p>
+          <p><strong>Title:</strong> Accumulated Waste Piles Mapping with ML</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
+          <p><strong>With:</strong> APHRC, KDI, UN-Habitat, Community Mappers, and UCL</p>
+          <p class="talk-links">
+            <a href="https://canva.link/cr5bh1rafbpt4ab" target="_blank" rel="noopener">View Presentation</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://netmob.org/www25/" target="_blank" rel="noopener">Netmob 2025</a></h2>
-      <img src="Netmob2025.png" alt="Netmob 2025">
-      <p><strong>Date:</strong> October 8-10, 2025</p>
-      <p><strong>Location:</strong> Paris, France</p>
-      <p><strong>Main Conference Research Title:</strong> Decomposing International Migration Flows with Mobile Trace Data: Trends, Seasonality, and Shocks</p>
-      <p><strong>Main Conference Research Authors:</strong> Wenlan Zhang, Dr Douglas R. Leasure</p>
-      <p><strong>Data Challenge Title:</strong> Integrating Temporal Context into User Profiling: A Preliminary Study with Doc2Vec</p>
-      <p><strong>Data Challenge Authors:</strong> Wenlan Zhang, Adam(ZhengZi) Zhou, Andrew Renninger</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by Netmob 2025 student travel grant and Leverhulme Centre for Demographic Science (LCDS), University in Oxford.</p>
-      <p><a href="https://www.canva.com/design/DAG0jmiuaMU/rVsV1izHsTdP1RbSfnynMA/view?utm_content=DAG0jmiuaMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac0c14271c" target="_blank" rel="noopener">View Poster</a> | <a href="https://netmob.org/www25/files/NetMob25_Book_of_Abstracts.pdf" target="_blank" rel="noopener">View Abstract</a></p>
-    </article>
+      <article class="talk-card" data-year="2025" data-themes="env" tabindex="0">
+        <img src="IDRC25.png" alt="IDRC 2025">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2025</span>
+        <h2 class="talk-venue">IDRC 2025</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">IDRC 2025</p>
+          <p><strong>Date:</strong> October 22–24, 2025</p>
+          <p><strong>Location:</strong> CYENS Centre of Excellence, Nicosia, Cyprus</p>
+          <p><strong>Title:</strong> Is Waste Blocking Our Cities? A Multisource Approach to Understanding Flood Disruption in Nairobi</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong</p>
+          <p class="talk-links">
+            <a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20251024IDRC.pdf" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://idrc2025.cyens.org.cy/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://www.city-plus.org/" target="_blank" rel="noopener">City Plus 2025</a></h2>
-      <img src="City+.png" alt="City+ 2025">
-      <p><strong>Date:</strong> September 29-30, 2025</p>
-      <p><strong>Location:</strong> Oxford, UK</p>
-      <p><strong>Title:</strong> Mapineq Workshop</p>
-      <p><strong>Workshop Team:</strong> Dr. Douglas Leasure, Wenlan Zhang, Xiang Ao</p>
-      <p><a href="https://github.com/OxfordDemSci/Mapineq/blob/214-add-code-to-api/docs/api_tutorial_jupyter_notebook/Mapineq_API.ipynb" target="_blank" rel="noopener">View Tutorial</a> | <a href="https://www.city-plus.org/city2025oxford-concluded-with-great-success/" target="_blank" rel="noopener">Summary</a></p>
-    </article>
+      <article class="talk-card" data-year="2025" data-themes="mobile" tabindex="0">
+        <img src="Netmob2025.png" alt="Netmob 2025">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2025</span>
+        <h2 class="talk-venue">Netmob 2025</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">Netmob 2025</p>
+          <p><strong>Date:</strong> October 8–10, 2025</p>
+          <p><strong>Location:</strong> Paris, France</p>
+          <p><strong>Title:</strong> Decomposing International Migration Flows with Mobile Trace Data: Trends, Seasonality, and Shocks</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Dr Douglas R. Leasure</p>
+          <p><strong>Data Challenge:</strong> Integrating Temporal Context into User Profiling: A Preliminary Study with Doc2Vec</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Adam (ZhengZi) Zhou, Andrew Renninger</p>
+          <p class="talk-links">
+            <a href="https://www.canva.com/design/DAG0jmiuaMU/rVsV1izHsTdP1RbSfnynMA/view?utm_content=DAG0jmiuaMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac0c14271c" target="_blank" rel="noopener">View Poster</a>
+            <a href="https://netmob.org/www25/files/NetMob25_Book_of_Abstracts.pdf" target="_blank" rel="noopener">Abstract</a>
+            <a href="https://netmob.org/www25/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://www.ic2s2-2025.org/" target="_blank" rel="noopener">11th International Conference on Computational Social Science (IC2S2 2025)</a></h2>
-      <img src="IC2S22025.png" alt="IC2S2 2025">
-      <p><strong>Date:</strong> July 21-24, 2025</p>
-      <p><strong>Location:</strong> Norrköping, Sweden</p>
-      <p><strong>Title:</strong> AI for Spatial Justice: Multimodal and Street View Imagery Uncover Waste Disparities in Nairobi's Informal Settlements</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong, Prof. Qunshan Zhao</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by UCL CASA student travel grant.</p>
-      <p><a href="https://www.canva.com/design/DAGsHQL841o/zigFJsbtFMs5bKgv3uo84w/view?utm_content=DAGsHQL841o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2de3242ed8" target="_blank" rel="noopener">View Poster</a> | <a href="https://www.ic2s2-2025.org/program/#sessions-list" target="_blank" rel="noopener">Abstract</a></p>
-    </article>
+      <article class="talk-card" data-year="2025" data-themes="" tabindex="0">
+        <img src="City+.png" alt="City+ 2025">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2025</span>
+        <h2 class="talk-venue">City+ 2025</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">City Plus 2025</p>
+          <p><strong>Date:</strong> September 29–30, 2025</p>
+          <p><strong>Location:</strong> Oxford, UK</p>
+          <p><strong>Title:</strong> Mapineq Workshop</p>
+          <p><strong>Workshop Team:</strong> Dr. Douglas Leasure, Wenlan Zhang, Xiang Ao</p>
+          <p class="talk-links">
+            <a href="https://github.com/OxfordDemSci/Mapineq/blob/214-add-code-to-api/docs/api_tutorial_jupyter_notebook/Mapineq_API.ipynb" target="_blank" rel="noopener">View Tutorial</a>
+            <a href="https://www.city-plus.org/city2025oxford-concluded-with-great-success/" target="_blank" rel="noopener">Summary</a>
+            <a href="https://www.city-plus.org/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://netmob.org/www24/" target="_blank" rel="noopener">Netmob 2024</a></h2>
-      <img src="Netmob_24.jpg" alt="Netmob 2024">
-      <p><strong>Date:</strong> October 7-9, 2024</p>
-      <p><strong>Location:</strong> Washington DC, US</p>
-      <p><strong>Title:</strong> Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data</p>
-      <p><strong>Authors:</strong> Dr. Sveta Milusheva, Wenlan Zhang</p>
-      <p><a href="https://www.canva.com/design/DAGShueQyS8/3js6UV-SFRZ5woiNdCDkJg/view?utm_content=DAGShueQyS8&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener">View Presentation</a> | <a href="https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf" target="_blank" rel="noopener">Abstract</a></p>
-    </article>
+      <article class="talk-card" data-year="2025" data-themes="env" tabindex="0">
+        <img src="IC2S22025.png" alt="IC2S2 2025">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2025</span>
+        <h2 class="talk-venue">IC2S2 2025</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">IC2S2 2025</p>
+          <p><strong>Date:</strong> July 21–24, 2025</p>
+          <p><strong>Location:</strong> Norrköping, Sweden</p>
+          <p><strong>Title:</strong> AI for Spatial Justice: Multimodal and Street View Imagery Uncover Waste Disparities in Nairobi's Informal Settlements</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Prof. Chen Zhong, Prof. Qunshan Zhao</p>
+          <p class="talk-links">
+            <a href="https://www.canva.com/design/DAGsHQL841o/zigFJsbtFMs5bKgv3uo84w/view?utm_content=DAGsHQL841o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2de3242ed8" target="_blank" rel="noopener">View Poster</a>
+            <a href="https://www.ic2s2-2025.org/program/#sessions-list" target="_blank" rel="noopener">Abstract</a>
+            <a href="https://www.ic2s2-2025.org/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://www.aag.org/events/aag2024/" target="_blank" rel="noopener">Association of American Geographers Annual Meetings 2024 (AAG 2024)</a></h2>
-      <img src="AAG_24.jpg" alt="AAG 2024">
-      <p><strong>Date:</strong> April 16-20, 2024</p>
-      <p><strong>Location:</strong> Honolulu, Hawai'i, US</p>
-      <p><strong>Title:</strong> A Data-Driven Approach for Identifying Open Dumping Sites in the Global South</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by realTRIPS project (ERC).</p>
-      <p><a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf" target="_blank" rel="noopener">View Presentation</a> | <a href="https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf" target="_blank" rel="noopener">Abstract</a></p>
-    </article>
+      <article class="talk-card" data-year="2024" data-themes="mobile" tabindex="0">
+        <img src="Netmob_24.jpg" alt="Netmob 2024">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2024</span>
+        <h2 class="talk-venue">Netmob 2024</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">Netmob 2024</p>
+          <p><strong>Date:</strong> October 7–9, 2024</p>
+          <p><strong>Location:</strong> Washington DC, US</p>
+          <p><strong>Title:</strong> Unveiling Urban Travel Patterns: A Comparative Analysis of Smart Card and Mobile App Data</p>
+          <p><strong>Authors:</strong> Dr. Sveta Milusheva, Wenlan Zhang</p>
+          <p class="talk-links">
+            <a href="https://www.canva.com/design/DAGShueQyS8/3js6UV-SFRZ5woiNdCDkJg/view?utm_content=DAGShueQyS8&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf" target="_blank" rel="noopener">Abstract</a>
+            <a href="https://netmob.org/www24/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
 
-    <article class="pres-card">
-      <h2><a href="https://giscience2023.github.io/" target="_blank" rel="noopener">The 12th International Conference on Geographic Information Science (GIScience 2023)</a></h2>
-      <img src="GIScience_23.jpg" alt="GIScience 2023">
-      <p><strong>Date:</strong> September 12-15, 2023</p>
-      <p><strong>Location:</strong> Leeds, UK</p>
-      <p><strong>Title:</strong> Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya</p>
-      <p><strong>Authors:</strong> Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor</p>
-      <p><strong>Acknowledgement:</strong> This presentation was supported by realTRIPS project (ERC).</p>
-      <p><a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf" target="_blank" rel="noopener">View Presentation</a> | <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank" rel="noopener">Read Short Paper</a></p>
-    </article>
+      <article class="talk-card" data-year="2024" data-themes="env" tabindex="0">
+        <img src="AAG_24.jpg" alt="AAG 2024">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2024</span>
+        <h2 class="talk-venue">AAG 2024</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">AAG 2024</p>
+          <p><strong>Date:</strong> April 16–20, 2024</p>
+          <p><strong>Location:</strong> Honolulu, Hawai'i, US</p>
+          <p><strong>Title:</strong> A Data-Driven Approach for Identifying Open Dumping Sites in the Global South</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Dr. Angela Abascal, Dr. Chen Zhong, Dr. Qunshan Zhao</p>
+          <p class="talk-links">
+            <a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20240411AAG.pdf" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://www.aag.org/wp-content/uploads/2024/04/AAG-2024-PDF-program-FINAL.pdf" target="_blank" rel="noopener">Abstract</a>
+            <a href="https://www.aag.org/events/aag2024/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="talk-card" data-year="2023" data-themes="bias env" tabindex="0">
+        <img src="GIScience_23.jpg" alt="GIScience 2023">
+        <div class="talk-gradient" aria-hidden="true"></div>
+        <span class="talk-year">2023</span>
+        <h2 class="talk-venue">GIScience 2023</h2>
+        <div class="talk-overlay">
+          <p class="talk-overlay-venue">GIScience 2023</p>
+          <p><strong>Date:</strong> September 12–15, 2023</p>
+          <p><strong>Location:</strong> Leeds, UK</p>
+          <p><strong>Title:</strong> Digital Injustice: A Case Study of Land Use Classification using Multi-source Data in Nairobi, Kenya</p>
+          <p><strong>Authors:</strong> Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor</p>
+          <p class="talk-links">
+            <a href="https://github.com/wenlanzhang/wenlanzhang.github.io/blob/main/presentation/20230914_GIScience.pdf" target="_blank" rel="noopener">View Presentation</a>
+            <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.94" target="_blank" rel="noopener">Read Short Paper</a>
+            <a href="https://giscience2023.github.io/" target="_blank" rel="noopener">Conference</a>
+          </p>
+        </div>
+      </article>
+    </div>
   </main>
 
   <footer>
@@ -157,5 +249,6 @@
     </div>
     <p class="footer-copy">© 2026 Wenlan Zhang CC BY-SA 4.0</p>
   </footer>
+  <script src="talks.js"></script>
 </body>
 </html>
